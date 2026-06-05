@@ -1,0 +1,6 @@
+Search for your VM and go to it
+Click on connect and then connect via bastion and deploy bastion
+Then go back to the VM and click on Network settings under Networking on the left hand side
+Then click on the link under Network interface / IP configuration
+click on ipconfig1 and set private IP address to static and click on save
+After Bastion finishes you can enter your credentials and connect to it
