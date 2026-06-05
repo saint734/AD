@@ -1,0 +1,8 @@
+To create a new Virtual Machine Click on Create new resources in Azure.
+Then click on Virtual Machines
+Make a Resource group and name it 
+Then choose reccomended region, have availability zone option in self-selected zone and choose zone 3
+Then choose Windows Server 2022 Data Center Azure Edition hotfix
+Then choose Standarad_E2s_v3 - 2 vcpus, 16 GiB memory
+set username and password and select none for public inbound ports
+then choose review and create and then click create again
