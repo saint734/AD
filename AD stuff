@@ -6,10 +6,24 @@ Groups
 Users contains:
 Jake Iscool
 Tom Brady
-Mike Smith
 Mike John
 
 Groups:
 IT workers:
 Global scope, Security group
 Tom Brady, Mike John
+
+Computers:
+
+
+Branch 2 contains:
+Users
+Computers
+Groups
+
+Users contains:
+Mike Smith
+
+Groups:
+
+Computers:
