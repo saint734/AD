@@ -1,0 +1,5 @@
+On main page click on AD DS and click on more
+click on the action Promote this server to a domain controller
+change the deployment operation to add a new forest and name the domain
+next add a password
+click next and let stuff load and then install
