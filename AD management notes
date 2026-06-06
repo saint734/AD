@@ -1,0 +1,28 @@
+To change user password right click on user a clik reset password then reset password
+If account gets locked out you can unlock the account on the same reset password page
+
+If you double click on a specific group you can add people in the members tab (can also remove people too)
+
+Instead of manually adding a new user and doing stuff you can just right click on a user and click on copy
+This will add a person to the same group as them 
+
+In the account tab of a user you can unlock account from there, check to see if account is disabled
+
+You can change what OU a user is in by simply clicking and dragging them to the place where they need to be
+
+You can add descriptions to users in the general tab
+can also add phone number, email, office, initials, and web page if web page i guess
+
+In the organization tab you can add his title, department, company, and manager name
+
+Telephone tab may contain home number, pager, mobile number, fax, and ip number
+
+Profile tab contains profile path if user has their own directories, can also add logon script 
+
+Attribute editor tab
+Best practice is to filter it to have attributes that actually have values, can edit everything from this tab
+Another thing if you simply type a letter it'll bring you to where the letter first appears when first
+
+Distribution Group is used for emailing everyone in a certain group
+
+easy way to find something is go to find users, contacts, and groups tab where the arrows are and then change In: users to In: Entire Directory
