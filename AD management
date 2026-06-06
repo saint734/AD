@@ -2,3 +2,6 @@ To change user password right click on user a clik reset password then reset pas
 If account gets locked out you can unlock the account on the same reset password page
 
 If you double click on a specific group you can add people in the members tab (can also remove people too)
+
+Instead of manually adding a new user and doing stuff you can just right click on a user and click on copy
+This will add a person to the same group as them 
